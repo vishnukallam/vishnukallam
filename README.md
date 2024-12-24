@@ -1,6 +1,6 @@
 ### Hi there 👋, Kallam Vishnu Vardhan Reddy
 #### Undergraduate
-![Undergraduate](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Undergraduate](https://github.com/vishnukallam/vishnukallam/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 My name is Kallam Vishnu Vardhan Reddy, and I am an undergraduate student pursuing a degree in Computer Science and Engineering. I am strongly interested in programming languages such as Python and Java, as well as web development technologies, including HTML
 
