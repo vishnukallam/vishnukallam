@@ -9,7 +9,7 @@ Skills: PYTHON / JAVA / HTML / CSS
 
 - 🤔 I’m looking for help with I’m currently learning Java and exploring back-end development 
 - 📫 How to reach me: emailme.vishnuvardhan@gmail.com  
-- ⚡ Fun fact: When I'm not busy coding or designing, I love watching Anime and SiFi movies. It’s a great way to clear my mind and spark fresh ideas for my projects! 
+- ⚡ Fun fact: When I'm not busy coding or designing, I love watching Anime and Sci-Fi movies. It’s a great way to clear my mind and spark fresh ideas for my projects! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vishnukallam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@vishnukallam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Vishnu_Vardhan_Reddy_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kallam_vishnuardhan_reddy/)  
