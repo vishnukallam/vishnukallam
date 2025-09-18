@@ -12,7 +12,7 @@ Skills: PYTHON / JAVA / HTML / CSS
 - ⚡ Fun fact: When I'm not busy coding or designing, I love watching Anime and Sci-Fi movies. It’s a great way to clear my mind and spark fresh ideas for my projects! 
 
 
-[<img src='https://www.flaticon.com/free-icon/github_733553?term=github&page=1&position=3&origin=search&related_id=733553' alt='github' height='40'>](https://github.com/vishnukallam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@vishnukallam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Vishnu_Vardhan_Reddy_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kallam_vishnuardhan_reddy/)  
+[<img src='[https://www.flaticon.com/free-icon/github_733553?term=github&page=1&position=3&origin=search&related_id=733553](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)' alt='github' height='40'>](https://github.com/vishnukallam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@vishnukallam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Vishnu_Vardhan_Reddy_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kallam_vishnuardhan_reddy/)  
 (https://app.daily.dev/devcard)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnukallam&show_icons=true)  
