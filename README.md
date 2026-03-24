@@ -16,22 +16,17 @@
 
 ---
 
-### About Me
+### A Bit About Me
+- I'm an undergraduate, currently pursuing a B.Tech 4th year final semester.
 - I’m currently working on **Demographic-Based Opinion Mining for Productive Knowledge Sharing. It is a product-based project
 - I’m currently learning **Artificial Intelligence**
 - I’m looking to collaborate on **Open Source Projects**
 - Ask me about **Web Development or Python**
-- How to reach me: ****
+- Into anime - 👒 One Piece is my favorite
+- I enjoy exploring new technologies in my free time
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnukallam&show_icons=true&theme=transparent&hide_border=true" />
- 
-
----
-
-<div align="center">
-  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-</div>
