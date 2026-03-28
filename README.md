@@ -23,9 +23,3 @@
 - Ask me about **Web Development or Python**
 - Into anime - 👒 One Piece is my favorite
 - I enjoy exploring new technologies in my free time
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnukallam&show_icons=true&theme=transparent&hide_border=true" />
