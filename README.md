@@ -18,7 +18,7 @@
 
 ### A Bit About Me
 - I'm an undergraduate, currently pursuing a B.Tech 4th year final semester.
-- I’m currently working on **Demographic-Based Opinion Mining for Productive Knowledge Sharing. It is a product-based project
+- I’m currently working on **Demographic-Based Opinion Mining for Productive Knowledge Sharing**. It is a product-based project
 - I’m currently learning **Artificial Intelligence**
 - I’m looking to collaborate on **Open Source Projects**
 - Ask me about **Web Development or Python**
