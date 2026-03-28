@@ -12,6 +12,7 @@
 - Python
 - React, HTML, and CSS
 - SQL and MongoDB
+- GitHub
 
 ---
 
@@ -21,5 +22,6 @@
 - I’m currently learning **Artificial Intelligence**
 - I’m looking to collaborate on **Open Source Projects**
 - Ask me about **Web Development or Python**
+- I have built projects using **Antigravity**
 - Into anime - 👒 One Piece is my favorite
 - I enjoy exploring new technologies in my free time
