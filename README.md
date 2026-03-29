@@ -2,7 +2,7 @@
   <h1>Hey there 👋</h1>
   <h4>I,m Kallam Vishnu Vardhan Reddy, a software engineer based in India</h4>
   <h4>I mostly work on frontend stuff - React
-    I am also interested in exploring Python and Java programming languages.</h4>
+    I am also interested in exploring Python and Java programming languages.</h4> 
 </p>
 <h3>This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on.</h3>
 
