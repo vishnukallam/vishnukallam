@@ -25,3 +25,6 @@
 - I have built projects using **Antigravity**
 - Into anime - 👒 One Piece is my favorite
 - I enjoy exploring new technologies in my free time
+
+
+## Check my Resume!
