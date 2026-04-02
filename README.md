@@ -27,4 +27,4 @@
 - I enjoy exploring new technologies in my free time
 
 
-## Check my Resume!
+## Check my Resume if you want to know more about me.
