@@ -37,30 +37,12 @@
 
 
 
-## 📄 Document Access
+## 📄 Resume / Portfolio
+> **Action Required:** Please choose how you would like to view the file.
 
-Click the link below. Your browser will prompt you to either open the file or save it to your computer.
-
-> [!TIP]
-> ### [📥 Click here to Open or Download PDF](https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf)
-> *Depending on your browser, you may be asked to choose a destination.*
+| Open Digitally | Save to Disk |
+| :--- | :--- |
+| [![View](https://img.shields.io/badge/OPEN_IN_BROWSER-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf) | [![Download](https://img.shields.io/badge/DOWNLOAD_PDF-green?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf) |
+| *Opens in a new tab* | *Downloads to your folder* |
 
 ---
-
-**Manual Choice:**
-If you prefer to choose manually, use the buttons below:
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf" target="_blank">
-        <b>View in Browser ↗️</b>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf" download="Kallam_Vishnu_Vardhan_Reddy.pdf">
-        <b>Download to Disk 💾</b>
-      </a>
-    </td>
-  </tr>
-</table>
