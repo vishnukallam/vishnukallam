@@ -36,13 +36,24 @@
 
 
 
+# Project Title
 
-## 📄 Resume / Portfolio
-> **Action Required:** Please choose how you would like to view the file.
+Welcome to the repository. Choose an action below:
 
-| Open Digitally | Save to Disk |
-| :--- | :--- |
-| [![View](https://img.shields.io/badge/OPEN_IN_BROWSER-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf) | [![Download](https://img.shields.io/badge/DOWNLOAD_PDF-green?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf) |
-| *Opens in a new tab* | *Downloads to your folder* |
+### 1. Direct Download
+This link uses the `download` attribute. Most modern browsers will trigger a "Save As" pop-up immediately rather than navigating away.
+
+<a href="https://example.com/file.zip" download>
+  <img src="https://img.shields.io/badge/Action-Download_Now-blue?style=for-the-badge" alt="Download">
+</a>
 
 ---
+
+### 2. Open in New Tab
+Since GitHub doesn't allow `target="_blank"`, the standard way to ensure a user stays on your page while opening another is to instruct them, or use a direct URL that browsers typically handle as a new process.
+
+[Open Documentation in New Tab](https://example.com/docs)
+
+> **Note:** To force a new tab manually, users usually `Ctrl + Click`. However, if you use a raw HTML link, some browsers/renderers honor the new tab behavior better:
+
+<a href="https://example.com" target="_blank">Click here to attempt opening in a new tab</a>
