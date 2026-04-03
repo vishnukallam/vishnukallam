@@ -37,18 +37,30 @@
 
 
 
-## 📄 Project Documentation
+## 📄 Document Access
 
-Click an option below to access the PDF guide:
+Click the link below. Your browser will prompt you to either open the file or save it to your computer.
 
-## 📄 View Resume / CV
+> [!TIP]
+> ### [📥 Click here to Open or Download PDF](https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf)
+> *Depending on your browser, you may be asked to choose a destination.*
 
-<details>
-<summary><b>Click here to choose: Open or Download PDF</b></summary>
-<br />
+---
 
-> ### ⚡ Select an Option:
-> * 🖥️ **[Open in New Tab](https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf)**
-> * 📥 **<a href="https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf" download="Kallam_Vishnu_Vardhan_Reddy_CV.pdf">Download to Device</a>**
+**Manual Choice:**
+If you prefer to choose manually, use the buttons below:
 
-</details>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf" target="_blank">
+        <b>View in Browser ↗️</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf" download="Kallam_Vishnu_Vardhan_Reddy.pdf">
+        <b>Download to Disk 💾</b>
+      </a>
+    </td>
+  </tr>
+</table>
