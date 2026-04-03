@@ -27,6 +27,28 @@
 - I enjoy exploring new technologies in my free time
 
 
-<h2> 
+<!-- <h2> 
 <a href="https://github.com/vishnukallam/vishnukallam/blob/main/Kallam%20Vishnu%20Vardhan%20Reddy.pdf"style="text-decoration:none">Check my Resume!</a>
-</h2>
+
+
+  <a href="path/to/your/file.md" target="_blank">View PDF Document</a>
+</h2> -->
+
+
+
+
+## 📄 Project Documentation
+
+Click an option below to access the PDF guide:
+
+## 📄 View Resume / CV
+
+<details>
+<summary><b>Click here to choose: Open or Download PDF</b></summary>
+<br />
+
+> ### ⚡ Select an Option:
+> * 🖥️ **[Open in New Tab](https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf)**
+> * 📥 **<a href="https://github.com/user-attachments/files/26470176/Kallam.Vishnu.Vardhan.Reddy.pdf" download="Kallam_Vishnu_Vardhan_Reddy_CV.pdf">Download to Device</a>**
+
+</details>
