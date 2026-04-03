@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnukallam)
 [![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/vishnukallam/vishnukallam/blob/main/Kallam%20Vishnu%20Vardhan%20Reddy.pdf)
-[![Profile Views](https://komarev.com/ghpvc/?username=vishnukallam&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishnukallam)
 
 </div>
 
