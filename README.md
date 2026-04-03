@@ -27,5 +27,6 @@
 - I enjoy exploring new technologies in my free time
 
 
-## Check my Resume!
-![View the PDF Document](https://github.com/vishnukallam/vishnukallam/blob/main/Kallam%20Vishnu%20Vardhan%20Reddy.pdf)
+<h2> 
+<a href="https://github.com/vishnukallam/vishnukallam/blob/main/Kallam%20Vishnu%20Vardhan%20Reddy.pdf"style="text-decoration:none">Check my Resume!</a>
+</h2>
