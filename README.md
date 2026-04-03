@@ -119,7 +119,7 @@ me = Vishnu()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 <img width="148" height="148" alt="Image" src="https://github.com/user-attachments/assets/05d00354-736e-4eb0-9e64-626ff570b36d" />
