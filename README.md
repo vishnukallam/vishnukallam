@@ -1,72 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e8450a&height=200&section=header&text=Hey%20there!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=I'm%20Kallam%20Vishnu%20Vardhan%20Reddy&descAlignY=55&descSize=22&descColor=ffffff" width="100%"/>
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kallam%20Vishnu%20Vardhan%20Reddy&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20AI%20Explorer&descAlignY=60&descSize=16" width="100%"/>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vishnu+%F0%9F%91%8B;Frontend+Dev+%7C+React+Enthusiast;Exploring+AI+%26+Python;One+Piece+Fan+%F0%9F%92%92;Let's+Build+Something+Together!" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnukallam)
+[![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/vishnukallam/vishnukallam/blob/main/Kallam%20Vishnu%20Vardhan%20Reddy.pdf)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishnukallam&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishnukallam)
 
 </div>
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-### ⚛️ Frontend Engineer &nbsp;·&nbsp; 🇮🇳 India &nbsp;·&nbsp; 🤝 Open to Collaborate
+```python
+class Vishnu:
+    def __init__(self):
+        self.name       = "Kallam Vishnu Vardhan Reddy"
+        self.role       = "Software Engineer (Frontend)"
+        self.location   = "India 🇮🇳"
+        self.education  = "B.Tech — 4th Year Final Semester"
+        self.languages  = ["Python", "JavaScript", "Java (exploring)"]
+        self.interests  = ["Web Dev", "AI/ML", "Open Source", "Anime 🍙"]
+        self.favorite   = "One Piece ☠️🏴‍☠️"
 
-*Crafting interfaces with React, exploring the depths of Python & AI — one experiment at a time.*
+    def current_focus(self):
+        return [
+            "🔬 Research: Demographic-Based Opinion Mining for Productive Knowledge Sharing",
+            "🤖 Learning: Artificial Intelligence",
+            "🌐 Building: Modern Web Experiences with React",
+        ]
 
-[![GitHub](https://img.shields.io/badge/GitHub-vishnukallam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnukallam)
-&nbsp;
-[![Resume](https://img.shields.io/badge/📄%20My%20Resume-View%20%2F%20Download-e8450a?style=for-the-badge)](https://github.com/vishnukallam/vishnukallam/blob/main/Kallam%20Vishnu%20Vardhan%20Reddy.pdf)
+    def fun_fact(self):
+        return "I've built projects with Antigravity 🚀 (yes, the Python one!)"
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-22c55e?style=flat-square&logo=circle&logoColor=white)
-
-</div>
+me = Vishnu()
+```
 
 ---
 
-## 🛠️ Tools & Tech
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🔬 Featured Project
+## 🚀 What I'm Up To
 
 <table>
   <tr>
-    <td>
-      <strong>🧠 Demographic-Based Opinion Mining for Productive Knowledge Sharing</strong><br/>
-      <sub>🔬 In Progress &nbsp;·&nbsp; Product-based research project</sub><br/><br/>
-      A product-based project focused on productive knowledge sharing through opinion analysis segmented by demographic groups.<br/><br/>
-      <img src="https://img.shields.io/badge/NLP-ff6b6b?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Data%20Mining-f5a623?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
+    <td>🔭 <strong>Working On</strong></td>
+    <td>Demographic-Based Opinion Mining for Productive Knowledge Sharing</td>
+  </tr>
+  <tr>
+    <td>🌱 <strong>Learning</strong></td>
+    <td>Artificial Intelligence & exploring Python and Java deeper</td>
+  </tr>
+  <tr>
+    <td>👯 <strong>Looking to Collaborate</strong></td>
+    <td>Open Source Projects — let's build together!</td>
+  </tr>
+  <tr>
+    <td>💬 <strong>Ask Me About</strong></td>
+    <td>Web Development, React, or Python</td>
+  </tr>
+  <tr>
+    <td>⚡ <strong>Fun Fact</strong></td>
+    <td>I've built projects using Antigravity 🚀</td>
+  </tr>
+  <tr>
+    <td>🏴‍☠️ <strong>Currently Watching</strong></td>
+    <td>One Piece — I'm all in on the Grand Line adventure!</td>
   </tr>
 </table>
-
----
-
-## 👨‍💻 A Bit About Me
-
-| | |
-|---|---|
-| 🎓 | Undergraduate — **B.Tech 4th Year, Final Semester** |
-| 🤖 | Currently learning **Artificial Intelligence** |
-| 🤝 | Looking to collaborate on **Open Source Projects** |
-| 💬 | Ask me about **Web Development** or **Python** |
-| 🚀 | Built projects using **Antigravity** *(yes, the Python easter egg!)* |
-| 👒 | Into anime — **One Piece** is my all-time favorite |
-| 🌏 | Based in **India** · Always exploring new technologies |
 
 ---
 
@@ -74,15 +110,32 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishnukallam&show_icons=true&theme=radical&hide_border=true&title_color=e8450a&icon_color=f5a623&text_color=ffffff&bg_color=1a1610" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukallam&layout=compact&theme=radical&hide_border=true&title_color=e8450a&text_color=ffffff&bg_color=1a1610" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishnukallam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukallam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukallam&theme=tokyonight&hide_border=true" width="50%"/>
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vishnukallam&theme=radical&hide_border=true&ring=e8450a&fire=f5a623&currStreakLabel=f5a623&background=1a1610" height="150"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=vishnukallam&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 🗺️ Contribution Graph
+
+<div align="center">
+
+[![Vishnu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnukallam&theme=tokyo-night&hide_border=true)](https://github.com/vishnukallam)
 
 </div>
 
@@ -92,9 +145,7 @@
 
 <div align="center">
 
-> 📎 Click below to **view or download** my resume
-
-[![View Resume](https://img.shields.io/badge/📄%20Kallam%20Vishnu%20Vardhan%20Reddy%20—%20Resume-Click%20to%20Open-e8450a?style=for-the-badge)](https://github.com/vishnukallam/vishnukallam/blob/main/Kallam%20Vishnu%20Vardhan%20Reddy.pdf)
+[![View Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/vishnukallam/vishnukallam/blob/main/Kallam%20Vishnu%20Vardhan%20Reddy.pdf)
 
 </div>
 
@@ -102,8 +153,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e8450a&height=100&section=footer" width="100%"/>
+### 💡 *"The only way to do great work is to love what you do."*
 
-*Made with ❤️ by **Vishnu** · India 🇮🇳*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
