@@ -121,16 +121,10 @@ me = Vishnu()
 
 ## 🏆 GitHub Achievements
 
-<div class="row">
-  <div class="column">
-    <img width="148" height="148" alt="Image" src="https://github.com/user-attachments/assets/05d00354-736e-4eb0-9e64-626ff570b36d" />
-  </div>
-  <div class="column">
-   <img width="148" height="148" alt="Image" src="https://github.com/user-attachments/assets/ad3b113d-84c4-4ae1-8709-e60add20104e" />
-  </div>
-  <div class="column">
-    <img width="148" height="148" alt="Image" src="https://github.com/user-attachments/assets/c590d5ad-4aed-41a5-9bba-d0029967116c" />
-  </div>
+<div style="display: flex; justify-content: center; gap: 16px;">
+  <img width="148" height="148" alt="Achievement 1" src="https://github.com/user-attachments/assets/05d00354-736e-4eb0-9e64-626ff570b36d" />
+  <img width="148" height="148" alt="Achievement 2" src="https://github.com/user-attachments/assets/ad3b113d-84c4-4ae1-8709-e60add20104e" />
+  <img width="148" height="148" alt="Achievement 3" src="https://github.com/user-attachments/assets/c590d5ad-4aed-41a5-9bba-d0029967116c" />
 </div>
 
 ---
