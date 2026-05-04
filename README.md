@@ -23,12 +23,13 @@
 ## 🧑‍💻 About Me
 
 ```
-Name       = Kallam Vishnu Vardhan Reddy.
-Role       = Software Engineer (Frontend).
-Location   = India 🇮🇳.
-Education  = B.Tech — 4th Year Final Semester.
-Languages  = Python, JavaScript, Java (exploring), MongoDB, SQL, GitHub.
-Interests  = Web Dev, AI/ML, Open Source, Anime 🍙, Explore New Technologies.
+Name:      Kallam Vishnu Vardhan Reddy.
+Role:      Software Engineer (Frontend).
+Location:  India 🇮🇳.
+Education: B.Tech — 4th Year Final Semester.
+
+Languages: Python, JavaScript, Java (exploring), MongoDB, SQL, GitHub.
+Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 🔬 Research: Demographic-Based Opinion Mining for Productive Knowledge Sharing
 🤖 Learning: Artificial Intelligence
