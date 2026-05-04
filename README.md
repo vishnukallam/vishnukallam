@@ -22,28 +22,18 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class Vishnu:
-    def __init__(self):
-        self.name       = "Kallam Vishnu Vardhan Reddy"
-        self.role       = "Software Engineer (Frontend)"
-        self.location   = "India 🇮🇳"
-        self.education  = "B.Tech — 4th Year Final Semester"
-        self.languages  = ["Python", "JavaScript", "Java (exploring)"]
-        self.interests  = ["Web Dev", "AI/ML", "Open Source", "Anime 🍙"]
-        self.favorite   = "One Piece ☠️🏴‍☠️"
+```
+Name       = Kallam Vishnu Vardhan Reddy.
+Role       = Software Engineer (Frontend).
+Location   = India 🇮🇳.
+Education  = B.Tech — 4th Year Final Semester.
+Languages  = Python, JavaScript, Java (exploring), MongoDB, SQL, GitHub.
+Interests  = Web Dev, AI/ML, Open Source, Anime 🍙, Explore New Technologies.
 
-    def current_focus(self):
-        return [
-            "🔬 Research: Demographic-Based Opinion Mining for Productive Knowledge Sharing",
-            "🤖 Learning: Artificial Intelligence",
-            "🌐 Building: Modern Web Experiences with React",
-        ]
+🔬 Research: Demographic-Based Opinion Mining for Productive Knowledge Sharing
+🤖 Learning: Artificial Intelligence
+🌐 Building: Modern Web Experiences with React
 
-    def fun_fact(self):
-        return "I've built projects with Antigravity 🚀 (yes, the Python one!)"
-
-me = Vishnu()
 ```
 
 ---
