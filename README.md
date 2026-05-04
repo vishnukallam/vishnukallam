@@ -27,7 +27,8 @@ Name:      Kallam Vishnu Vardhan Reddy.
 Role:      Software Engineer (Frontend).
 Location:  India 🇮🇳.
 Education: B.Tech — 4th Year Final Semester.
-Experience: IIT Bombay TIH-IoT Foundation (Developed a Smart Bluetooth Charger Prototype).
+Experience: IIT Bombay TIH-IoT Foundation (Developed a Smart Bluetooth Charger Prototype),
+            SkillDzire Virtual Intern (Developed a Python Based ML Sentiment Analyzer prototype).
 Languages: Python, JavaScript, Java (exploring), MongoDB, SQL, GitHub.
 Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
