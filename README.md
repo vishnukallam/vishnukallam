@@ -1,4 +1,4 @@
-<!-- this is the header animation -->
+<!-- this is the header animation-->
 
 <div align="center">
 
