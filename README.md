@@ -149,7 +149,9 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 [![View Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/vishnukallam/vishnukallam/blob/main/Kallam%20Vishnu%20Vardhan%20Reddy.pdf)
 
 </div>
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/vishnukallam/vishnukallam/blob/output/github-snake-dark.svg)
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
