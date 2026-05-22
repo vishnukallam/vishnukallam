@@ -2,15 +2,17 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *" # Runs every 6 hours
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-
+  generate:
     permissions:
       contents: write
+    runs-on: ubuntu-latest
 
     steps:
       - name: Generate contribution snake
@@ -21,7 +23,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Deploy snake animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
