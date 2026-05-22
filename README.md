@@ -28,7 +28,7 @@ Role:      Software Engineer (Frontend).
 Location:  India 🇮🇳.
 Education: B.Tech — 4th Year Final Semester.
 Experience: IIT Bombay TIH-IoT Foundation (Developed a Smart Bluetooth Charger Prototype),
-            SkillDzire Virtual Intern (Developed a Python Based ML Sentiment Analyzer prototype).
+            SkillDzire Virtual Intern (Developed a Python-based ML Sentiment Analyzer prototype).
 Languages: Python, JavaScript, Java (exploring), MongoDB, SQL, GitHub.
 Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
@@ -42,13 +42,13 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="">
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -101,7 +101,7 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="">
 
 
 
@@ -114,7 +114,7 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+<div align="">
   <table style="border: none;">
     <tr>
       <td align="center">
