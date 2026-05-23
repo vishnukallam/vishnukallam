@@ -93,7 +93,7 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
   </tr>
   <tr>
     <td>🏴‍☠️ <strong>Currently Watching</strong></td>
-    <td>One Piece — I'm all in on the Grand Line adventure!</td>
+    <td>One Piece — I'm in the Elbaph Arc!</td>
   </tr>
 </table>
 
