@@ -152,21 +152,11 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 <div align="center">
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/vishnukallam/vishnukallam/blob/output/github-snake-dark.svg" alt="snake animation" />
-</p>
-</div>
-
-
-<div align="center">
-
 
 
 ## 🐍 Contribution Activity
 
-<img src="https://github.com/vishnukallam/vishnukallam/blob/output/material-snake.svg" width="100%" />
+<img src="https://github.com/vishnukallam/vishnukallam/blob/output/luxury-gold.svg" width="400"/>
 
 <br>
 
