@@ -150,7 +150,7 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 </div>
 
-<div align="center">
+<div>
 
 
 
@@ -158,35 +158,6 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 <img src="https://github.com/vishnukallam/vishnukallam/blob/output/material-you-purple.svg" width="400"/>
 
-<br>
-
-## ✨ Material Themes
-
-<table>
-<tr>
-<td align="center">
-<b>Emerald M3</b><br>
-<img src="https://github.com/vishnukallam/vishnukallam/blob/output/material-snake.svg" width="400"/>
-</td>
-
-<td align="center">
-<b>Cyber Glass</b><br>
-<img src="https://github.com/vishnukallam/vishnukallam/blob/output/cyber-snake.svg" width="400"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>Material Purple</b><br>
-<img src="https://github.com/vishnukallam/vishnukallam/blob/output/material-you-purple.svg" width="400"/>
-</td>
-
-<td align="center">
-<b>Luxury Gold</b><br>
-<img src="https://github.com/vishnukallam/vishnukallam/blob/output/luxury-gold.svg" width="400"/>
-</td>
-</tr>
-</table>
 
 </div>
 
