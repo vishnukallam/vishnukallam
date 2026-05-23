@@ -159,6 +159,47 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 </p>
 </div>
 
+
+<div align="center">
+
+
+
+## 🐍 Contribution Activity
+
+<img src="https://github.com/vishnukallam/vishnukallam/blob/output/material-snake.svg" width="100%" />
+
+<br>
+
+## ✨ Material Themes
+
+<table>
+<tr>
+<td align="center">
+<b>Emerald M3</b><br>
+<img src="https://github.com/vishnukallam/vishnukallam/blob/output/material-snake.svg" width="400"/>
+</td>
+
+<td align="center">
+<b>Cyber Glass</b><br>
+<img src="https://github.com/vishnukallam/vishnukallam/blob/output/cyber-snake.svg" width="400"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Material Purple</b><br>
+<img src="https://github.com/vishnukallam/vishnukallam/blob/output/material-you-purple.svg" width="400"/>
+</td>
+
+<td align="center">
+<b>Luxury Gold</b><br>
+<img src="https://github.com/vishnukallam/vishnukallam/blob/output/luxury-gold.svg" width="400"/>
+</td>
+</tr>
+</table>
+
+</div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
