@@ -1,8 +1,8 @@
-name: 🐍 Generate Contribution Snake
+name: 🐍 Material Snake UI
 
 on:
   schedule:
-    - cron: "0 * * * *" # updates every hour
+    - cron: "0 * * * *" # every hour
   workflow_dispatch:
   push:
     branches:
@@ -10,25 +10,41 @@ on:
 
 jobs:
   generate:
-    name: Generate Snake Animation
+    name: Generate Material Snake
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
-      - name: Generate GitHub Contribution Snake
+      - name: Generate Snake Assets
         uses: Platane/snk@v3
         with:
           github_user_name: vishnukallam
 
           outputs: |
+            # Default
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?palette=github-dark
-            dist/snake-grid.svg?color_snake=#00FFB3&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
-      - name: Push Snake Animation to Output Branch
+            # Premium dark theme
+            dist/github-snake-dark.svg?palette=github-dark
+
+            # Material 3 Emerald Theme
+            dist/material-snake.svg?color_snake=#7CFFB2&color_dots=#0D1117,#113322,#1E5631,#2E8B57,#5EFF9B
+
+            # Cyber Glass Theme
+            dist/cyber-snake.svg?color_snake=#00E5FF&color_dots=#0D1117,#102A43,#0EA5E9,#38BDF8,#7DD3FC
+
+            # Purple Material You Theme
+            dist/material-you-purple.svg?color_snake=#C084FC&color_dots=#0D1117,#2A1A40,#6D28D9,#8B5CF6,#C084FC
+
+            # Gold Luxury Theme
+            dist/luxury-gold.svg?color_snake=#FFD700&color_dots=#0D1117,#3B2F00,#8B7500,#D4AF37,#FFD700
+
+            # Animated GIF
+            dist/material-ocean.gif?palette=github-dark
+
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
