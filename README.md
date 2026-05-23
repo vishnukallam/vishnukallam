@@ -156,7 +156,7 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 ## 🐍 Contribution Activity
 
-<img src="https://github.com/vishnukallam/vishnukallam/blob/output/material-you-purple.svg" width="400"/>
+<img src="https://github.com/vishnukallam/vishnukallam/blob/output/material-you-purple.svg" width="650"/>
 
 
 </div>
