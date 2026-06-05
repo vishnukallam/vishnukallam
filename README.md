@@ -26,15 +26,15 @@
 Name:      Kallam Vishnu Vardhan Reddy.
 Role:      Software Engineer (Frontend).
 Location:  India 🇮🇳.
-Education: B.Tech — 4th Year Final Semester.
+Education:  Recently completed my B.Tech in Computer Science and Engineering.
 Experience: IIT Bombay TIH-IoT Foundation (Developed a Smart Bluetooth Charger Prototype),
             SkillDzire Virtual Intern (Developed a Python-based ML Sentiment Analyzer prototype).
-Languages: Python, JavaScript, Java (exploring), MongoDB, SQL, GitHub.
+Languages: Python, Java (exploring), MongoDB, SQL, GitHub, HTML, CSS.
 Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
-🔬 Research: Demographic-Based Opinion Mining for Productive Knowledge Sharing
-🤖 Learning: Artificial Intelligence
-🌐 Building: Modern Web Experiences with React
+💻 Developed: Demographic-Based Opinion Mining for Productive Knowledge Sharing
+🤖 Interested: To learn new technologies 
+🌐 Building: Modern Web Experiences with React, Antigravity, and Claude.
 
 ```
 
