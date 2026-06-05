@@ -102,7 +102,7 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 ## 🚀 My Projects
 
-### 🌐 <a href="https://onlinecompilerplatform.vercel.app" target="_blank">Online Compiler Platform</a>
+### 💻 <a href="https://onlinecompilerplatform.vercel.app" target="_blank">Online Compiler Platform</a>
 
 A web-based coding environment enabling users to write, compile, and execute programs in real time through an interactive browser-based environment.  
 Implemented execution engines to securely run Python and Java programs with interactive input/output handling.  
@@ -123,7 +123,7 @@ Integrated turn-by-turn navigation, place search, dropped pins, and dynamic rout
 
 ---
 
-### 🖥️ <a href="https://hardware-products.vercel.app" target="_blank">NEXUS HARDWARE - Premium PC Hardware Ecommerce System</a>
+### 🛒 <a href="https://hardware-products.vercel.app" target="_blank">NEXUS HARDWARE - Premium PC Hardware Ecommerce System</a>
 
 Developed NEXUS HARDWARE, a full-stack ecommerce platform for premium PC hardware components with UPI-based payment integration.  
 Built a responsive frontend using React, Vite, Tailwind CSS, and Material 3 design principles, enabling seamless product browsing, cart management, and secure checkout.  
