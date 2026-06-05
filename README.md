@@ -100,7 +100,9 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 ---
 
 ## My projects
-### ![Online Compiler Paltdfrom](https://onlinecompilerplatform.vercel.app)
+<a href="https://onlinecompilerplatform.vercel.app">
+  <h3>Online Compiler Platform</h3>
+</a>
 <p>
   A web-based coding environment enabling users to write, compile, and execute programs in real time through an interactive browser-based environment. 
   Implemented execution engines to securely run Python and Java programs with interactive input/output handling. 
