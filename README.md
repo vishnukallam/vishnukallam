@@ -99,33 +99,39 @@ Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 ---
 
-## My projects
-<a href="https://onlinecompilerplatform.vercel.app">
-  <h3>Online Compiler Platform</h3>
-</a>
-<p>
-  A web-based coding environment enabling users to write, compile, and execute programs in real time through an interactive browser-based environment. 
-  Implemented execution engines to securely run Python and Java programs with interactive input/output handling. 
-  Added features such as file management, package installation, visual output rendering, and cloud deployment support using Vercel, Render, and Docker.
-</p>
 
+## 🚀 My Projects
 
-### ![KON-NECT – Real-Time Social Discovery Platform](https://demographic-social-app-4.vercel.app)
-<p>
-  KON-NECT is a real-time, location-based social discovery platform that connects users with nearby people who share similar interests. 
-  Built an interactive live map with real-time location updates, smart interest matching, friend requests, and privacy-focused social discovery within a 20km radius. 
-  Implemented encrypted persistent messaging, live unread notifications, and mutual connection-based chat. 
-  Integrated turn-by-turn navigation, place search, dropped pins, and dynamic route tracking for real-world interaction.
-</p>
+### 🌐 <a href="https://onlinecompilerplatform.vercel.app" target="_blank">Online Compiler Platform</a>
 
- 
-### ![NEXUS HARDWARE - Premium PC Hardware Ecommerce System](https://hardware-products.vercel.app)
-<p>
-  Developed NEXUS HARDWARE, a full-stack ecommerce platform for premium PC hardware components with UPI-based payment integration. 
-  Built a responsive frontend using React, Vite, Tailwind CSS, and Material 3 design principles, enabling seamless product browsing, cart management, and secure checkout. 
-  Implemented a scalable backend using Node.js, Express, PostgreSQL (Neon) with secure JWT authentication and Google OAuth 2.0.
-  Deployed the application using Vercel, Render, and Neon Cloud, focusing on performance, security, and a modern user experience for hardware product purchasing.
-</p>
+A web-based coding environment enabling users to write, compile, and execute programs in real time through an interactive browser-based environment.  
+Implemented execution engines to securely run Python and Java programs with interactive input/output handling.  
+Added features such as file management, package installation, visual output rendering, and cloud deployment support using Vercel, Render, and Docker.
+
+🔗 **Live Demo:** https://onlinecompilerplatform.vercel.app
+
+---
+
+### 📍 <a href="https://demographic-social-app-4.vercel.app" target="_blank">KON-NECT – Real-Time Social Discovery Platform</a>
+
+KON-NECT is a real-time, location-based social discovery platform that connects users with nearby people who share similar interests.  
+Built an interactive live map with real-time location updates, smart interest matching, friend requests, and privacy-focused social discovery within a 20km radius.  
+Implemented encrypted persistent messaging, live unread notifications, and mutual connection-based chat.  
+Integrated turn-by-turn navigation, place search, dropped pins, and dynamic route tracking for real-world interaction.
+
+🔗 **Live Demo:** https://demographic-social-app-4.vercel.app
+
+---
+
+### 🖥️ <a href="https://hardware-products.vercel.app" target="_blank">NEXUS HARDWARE - Premium PC Hardware Ecommerce System</a>
+
+Developed NEXUS HARDWARE, a full-stack ecommerce platform for premium PC hardware components with UPI-based payment integration.  
+Built a responsive frontend using React, Vite, Tailwind CSS, and Material 3 design principles, enabling seamless product browsing, cart management, and secure checkout.  
+Implemented a scalable backend using Node.js, Express, PostgreSQL (Neon) with secure JWT authentication and Google OAuth 2.0.  
+Deployed the application using Vercel, Render, and Neon Cloud, focusing on performance, security, and a modern user experience for hardware product purchasing.
+
+🔗 **Live Demo:** https://hardware-products.vercel.app
+
 
 ---
 
