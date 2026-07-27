@@ -29,7 +29,7 @@ Location:  India 🇮🇳.
 Education:  Recently completed my B.Tech in Computer Science and Engineering.
 Experience: IIT Bombay TIH-IoT Foundation (Developed a Smart Bluetooth Charger Prototype),
             SkillDzire Virtual Intern (Developed a Python-based ML Sentiment Analyzer prototype).
-Languages: Python, Java (exploring), MongoDB, SQL, GitHub, HTML, CSS.
+Skills: Python, Java, MongoDB, SQL, GitHub, HTML, CSS, Power BI, Excel.
 Interests: Web Dev, AI/ML, Open Source, Anime 🍙, Exploring New Technologies.
 
 💻 Developed: Demographic-Based Opinion Mining for Productive Knowledge Sharing
